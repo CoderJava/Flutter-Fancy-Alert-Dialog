@@ -1,11 +1,3 @@
-# fancy_alert_dialog
-Plugin to create native dialog fancy for iOS and Android
-
-## Usage
-To use this plugin, add ```fancy_alert_dialog``` as a [dependency in your pubspec.yaml](https://flutter.io/platform-plugins/).
-
-### Example
-```dart
 import 'package:fancy_alert_dialog/fancy_alert_dialog.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -36,7 +28,7 @@ class MyApp extends StatelessWidget {
               context,
               'Info Fancy Alert Dialog Box',
               'This is a info alert dialog box. This plugin is used to help you easily create fancy dialog',
-              Colors.red,
+              Colors.blue,
               icon: Icon(
                 Icons.clear,
                 color: Colors.white,
@@ -58,5 +50,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-```
-

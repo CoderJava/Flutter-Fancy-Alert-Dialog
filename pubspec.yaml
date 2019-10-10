@@ -1,8 +1,8 @@
 name: fancy_alert_dialog
-description: Plugin to create native dialog fancy for iOS and Android
+description: Plugin to create dialog fancy for iOS and Android
 version: 0.0.1
-author:
-homepage:
+author: Yudi Setiawan<kolonel.yudisetiawan@gmail.com>
+homepage: https://github.com/CoderJava/Flutter-Fancy-Alert-Dialog
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
